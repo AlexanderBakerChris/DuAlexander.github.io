@@ -1,2 +1,3 @@
 Name: Du Alexander
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
